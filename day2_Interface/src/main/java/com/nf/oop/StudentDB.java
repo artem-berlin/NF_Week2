@@ -1,6 +1,11 @@
 package com.nf.oop;
-//Maven
-//import org.apache.commons.lang3.ArrayUtils;
+//Maven import <dependency>
+//        <groupId>org.apache.commons</groupId>
+//        <artifactId>commons-lang3</artifactId>
+//        <version>3.12.0</version>
+//    </dependency>
+
+import org.apache.commons.lang3.ArrayUtils;
 
 import java.util.Arrays;
 import java.util.Random;
